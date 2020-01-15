@@ -1,0 +1,11 @@
+{
+  "name": "ex_typescript_start",
+  "version": "1.0.0",
+  "description": "typescript start setting",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "sbim",
+  "license": "ISC"
+}

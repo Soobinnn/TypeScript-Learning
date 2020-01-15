@@ -1,0 +1,17 @@
+{
+  // tasks.json 형식에 대한 설명서는
+  // https://go.microsoft.com/fwlink/?LinkId=733558의 내용을 참조하세요.
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "typescript",
+      "tsconfig": "ex_typescript_start/tsconfig.json",
+      "problemMatcher": ["$tsc"],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "label": "Run tsc build"
+    }
+  ]
+}
